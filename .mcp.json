@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ideabrowser": {
+      "type": "http",
+      "url": "https://www.ideabrowser.com/api/mcp/mcp?key=ib_a8edfa21839b6dd09f7b824706c4ad05ef918eecfc2faf3f"
+    },
+    "ableton": {
+      "type": "http",
+      "url": "http://localhost:65432"
+    }
+  }
+}
